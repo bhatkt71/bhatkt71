@@ -12,7 +12,6 @@
 <a href="https://linkedin.com/in/bhatkt71"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-bhatkt71-blue?style=flat&logo=linkedin"></a>
 <a href="https://kaggle.com/tawseefbashir"><img alt="kaggle" src="https://img.shields.io/badge/kaggle-tawseefbashir-skyblue?style=flat&logo=kaggle"></a>
 <a href="https://www.hackerrank.com/bhatkt71"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-bhatkt71-green?style=flat&logo=hackerrank"></a>
-<a href= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhat_kt>
 </p>
 <p align="center">
    <table>
