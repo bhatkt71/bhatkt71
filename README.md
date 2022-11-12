@@ -9,7 +9,7 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/tawseef-bashir-3b18a61aa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tawseef-bashir-3b18a61aa-blue?style=flat&logo=linkedin"></a>
+<a href="https://linkedin.com/in/bhatkt71"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-bhatkt71-blue?style=flat&logo=linkedin"></a>
 <a href="https://kaggle.com/tawseefbashir"><img alt="kaggle" src="https://img.shields.io/badge/kaggle-tawseefbashir-skyblue?style=flat&logo=kaggle"></a>
 <a href="https://www.hackerrank.com/bhatkt71"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-bhatkt71-green?style=flat&logo=hackerrank"></a>
 </p>
