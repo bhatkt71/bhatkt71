@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=bhatkt71i&show_icons=true&theme=dark)](https://github.com/bhatkt71)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=bhatkt71&show_icons=true&theme=dark)](https://github.com/bhatkt71)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatkt71&layout=compact&theme=dark)](https://github.com/dbhatkt71)
