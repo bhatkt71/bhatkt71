@@ -5,7 +5,7 @@
 - 💬 Ask me about **Anything.**
 - 🔭 I’m currently pursuing  **Masters in computer science**
 
-- 📫 How to reach me  <a href="mailto:bhatkt71@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-abhatkt71@gmail.com-red?style=flat&logo=gmail"></a>
+- 📫 How to reach me  <a href="mailto:bhatkt71@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-bhatkt71@gmail.com-red?style=flat&logo=gmail"></a>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -22,5 +22,3 @@
    </table>
 </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=bhatkt71&show_icons=true&theme=dark)](https://github.com/bhatkt71)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatkt71&layout=compact&theme=dark)](https://github.com/dbhatkt71)
