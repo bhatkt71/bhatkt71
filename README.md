@@ -1,6 +1,6 @@
 ###                                                                Hi 👋, I'm tawseef bashir
 
-🔭 I’m currently looking for **an internship.**
+🔭 I’m currently looking for **a JOB.**
 
 - 💬 Ask me about **Anything.**
 - 🔭 I’m currently pursuing  **Masters in computer science**
